@@ -1,0 +1,1 @@
+select * from Courses where NOT CourseName BETWEEN 'ColdFusion' AND 'Python' ORDER BY CourseName;

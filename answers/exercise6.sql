@@ -1,0 +1,1 @@
+select * from students WHERE NOT country IN ('Sint Maarten','Haiti');
